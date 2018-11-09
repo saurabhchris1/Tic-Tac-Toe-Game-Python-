@@ -10,8 +10,7 @@ the game will start
 
 ```
 
-## This program is not perfect as it uses many if else conditions and also it is not very efficient. Any suggession are always
-##   welcome for improvement of the code
+## This program is not perfect as it uses many if else conditions and also it is not very efficient. Any suggession are always welcome for improvement of the code
 
 **1. [ 100 points ] This homework will test your abilities to implement an algorithm in Python and to build a user interface for it using Tkinter.
 Use Tkinter to build tictactoe, an script that plays an interactive Tic-Tac-Toe game of you against the computer. Tic-tac-toe with humans dates back to Ancient Egypt. (Thanks, Wikipedia!)**
